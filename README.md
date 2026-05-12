@@ -185,9 +185,9 @@ Reorder if Stock < Demand during Lead Time
 ---
 
 ## Project Files
-- `final_project.pbix` → Power BI Dashboard  
-- `analysis.ipynb` → Python Analysis  
-- `dataset.csv` → Dataset  
+- `final_project.pbix` → https://drive.google.com/file/d/1tfIvwORavEIzcEOhLg32y6ZBWstwdP_y/view?usp=sharing 
+- `analysis.ipynb` → [Python Analysis](https://colab.research.google.com/drive/1b77qzyPeJE10F87oVwJoK57q2DQwp2YL?usp=sharing)  
+
 
 ---
 
